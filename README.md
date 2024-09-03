@@ -8,7 +8,16 @@ By automating the creation and management of service requests, our intelligent b
 You can explore the code, learn about our implementation, and see how AI transforms cloud operations.
 
 ## Instructions
+Follow the instructions to import copilot to your tenant
 
+[Enhancing Cloud Infrastructure Support with Generative AI and MS Power Platform](https://github.com/intelliconnect/genai-cloudops-automation-bot/blob/main/)
+
+## Docs for test purpose
+[Knowledge Base File](https://github.com/intelliconnect/genai-cloudops-automation-bot/blob/main/CopilotKnowledgeBase.csv)
+
+[Test Doc 1 - Build Failure Cases](https://github.com/intelliconnect/genai-cloudops-automation-bot/blob/main/Build%20Failure%20Cases.docx)
+
+[Test Doc 2 - Appsmith Docker Installation](https://github.com/intelliconnect/genai-cloudops-automation-bot/blob/main/App%20smith%20docker%20installation.docx)
 
 ## Sample Chat & Output
 
