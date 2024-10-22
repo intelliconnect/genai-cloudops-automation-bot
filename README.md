@@ -10,7 +10,7 @@ You can explore the code, learn about our implementation, and see how AI transfo
 ## Instructions
 Follow the instructions to import copilot to your tenant
 
-[Enhancing Cloud Infrastructure Support with Generative AI and MS Power Platform]([https://github.com/intelliconnect/genai-cloudops-automation-bot/blob/main/](https://github.com/intelliconnect/genai-cloudops-automation-bot/blob/main/Enhancing%20Cloud%20Infrastructure%20Support%20with%20Generative%20AI%20and%20MS%20Power%20Platform(IntelliconnectQ-Analytics).pdf))
+[Enhancing Cloud Infrastructure Support with Generative AI and MS Power Platform](https://github.com/intelliconnect/genai-cloudops-automation-bot/blob/main/Enhancing%20Cloud%20Infrastructure%20Support%20with%20Generative%20AI%20and%20MS%20Power%20Platform(IntelliconnectQ-Analytics).pdf)
 
 ## Docs for test purpose
 [Knowledge Base File](https://github.com/intelliconnect/genai-cloudops-automation-bot/blob/main/CopilotKnowledgeBase.csv)
